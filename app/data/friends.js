@@ -19,7 +19,7 @@ var friendsData = [
   {
     name: "Obama",
     photo:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/1280px-President_Barack_Obama.jpg",
-    scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+    scores: [3, 3, 3, 3, 3, 3, 7, 3, 3, 3]
   },
   {
     name: "Jessica",

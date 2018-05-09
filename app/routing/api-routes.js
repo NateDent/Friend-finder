@@ -39,7 +39,7 @@ function apiRoutes(app) {
       scoreComparisionArray.push(currentComparison);
     }
 
-    // Determine the best match using the postion of best match in the friendsData array
+    // Determine the best match using friendsData array
     var bestMatchPosition = 0;
     for(var i=1; i < scoreComparisionArray.length; i++){
       if(scoreComparisionArray[i] <= scoreComparisionArray[bestMatchPosition]){
